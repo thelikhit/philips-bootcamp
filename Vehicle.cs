@@ -1,6 +1,6 @@
 using System;
 
-class Vehicle {
+abstract class Vehicle {
 }
 
 class Car: Vehicle {
